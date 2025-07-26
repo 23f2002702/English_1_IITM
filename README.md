@@ -29,11 +29,15 @@ Extra practice never hurts! The `PA` folder has solutions to the practice questi
 - **Clone it** to your computer with:  
   ```bash
   git clone https://github.com/YOUR-USERNAME/english1-iitm.git
+  
 
+- Go to the notes folder to find weekly notes — these are in a simple pdf format.
+
+- Check the GA folder for all the GR solutions, organized week by week.
 
 ---
 
-## Notes
+## Please Note
  - The solutions here are only for reference — always try the questions yourself first before checking the answers.
  - Some answers may not be the most perfect or efficient ones — they’re shared to help you get started with your own work.
  - This project is completely unofficial — it is not connected with IIT Madras or any official course team. Everything is personal work.
